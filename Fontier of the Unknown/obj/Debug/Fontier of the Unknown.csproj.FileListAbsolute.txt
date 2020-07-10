@@ -1,0 +1,12 @@
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\obj\Debug\Fontier of the Unknown.csprojAssemblyReference.cache
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\obj\Debug\Fontier_of_the_Unknown.Properties.Resources.resources
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\obj\Debug\Fontier of the Unknown.csproj.GenerateResource.cache
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\obj\Debug\Fontier of the Unknown.csproj.CoreCompileInputs.cache
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\bin\Debug\Fontier of the Unknown.exe.config
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\bin\Debug\Fontier of the Unknown.exe
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\bin\Debug\Fontier of the Unknown.pdb
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\obj\Debug\Fontier of the Unknown.exe
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\obj\Debug\Fontier of the Unknown.pdb
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\obj\Debug\Fontier_of_the_Unknown.Main.Host.HostForm.resources
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\obj\Debug\Fontier_of_the_Unknown.Main.Client.Lobby.resources
+C:\Users\Zehous\Desktop\Visual Studio\Projecto MMO RPG\Fontier of the Unknown\obj\Debug\Fontier_of_the_Unknown.Main.MainForm.resources
